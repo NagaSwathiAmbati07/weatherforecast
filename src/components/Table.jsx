@@ -12,7 +12,7 @@ const Table = ({
   return (
     <table className="border-2 border-black flex-1 h-fit">
       <thead>
-        <tr className="bg-orange-600">
+        <tr className="bg-orange-500 text-white">
           <th colSpan="2" className="px-6">
             Date: {DAY}-{MONTH}-{YEAR}
           </th>
